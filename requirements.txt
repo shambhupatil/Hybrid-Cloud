@@ -1,0 +1,8 @@
+flask
+waitress
+tox==3.*
+boto3
+dlib
+numpy
+face_recognition
+ffmpeg
