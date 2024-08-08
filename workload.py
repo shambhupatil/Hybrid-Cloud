@@ -4,8 +4,8 @@ import os
 
 test_cases = "test_cases/"
 
-aws_access_key_id = "AKIAXF3TLYDM2OOXG3VR"
-aws_secret_access_key = "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"
+aws_access_key_id = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+aws_secret_access_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 rados_url='http://127.0.0.1:8000'

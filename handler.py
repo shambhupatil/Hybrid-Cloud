@@ -27,8 +27,8 @@ for i in range(len(arr_list_enco)):
 
 # Set region and credentials
 region = 'us-east-1'
-aws_access_key_id = "AKIAXF3TLYDM2OOXG3VR"
-aws_secret_access_key = "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"
+aws_access_key_id = "xxxxxxxxxxxxxx"
+aws_secret_access_key = "xxxxxxxxxxxxxxxxxxxx"
 
 # Create a DynamoDB client with region and credentials
 dynamodb = boto3.client('dynamodb', region_name=region, aws_access_key_id=aws_access_key_id,

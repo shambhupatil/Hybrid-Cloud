@@ -2,8 +2,8 @@ import requests
 import boto3
 import time
 import csv
-aws_access_key_id = "AKIAXF3TLYDM2OOXG3VR"
-aws_secret_access_key = "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"
+aws_access_key_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+aws_secret_access_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 rados_url='http://127.0.0.1:8000'
